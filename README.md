@@ -14,3 +14,5 @@ Mark up 1
 ## How To Contribute
 
 Mark up 2
+
+### Copyright Notice
