@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 What are we doing
-Adding a lind for the sake of it
+Adding a lind for the sake of it, more from muy branch.
 
 ## Purpose
 
