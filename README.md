@@ -18,4 +18,4 @@ Mark up 2
 
 ### Copyright Notice
 
-2014
+2014 - All rights reserved
